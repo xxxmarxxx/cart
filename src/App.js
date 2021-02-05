@@ -1,6 +1,6 @@
 import React from 'react'
 import { useGlobalContext } from './context'
-// lesson 156/157/158/159 cart
+// lesson 156/157/158/159/160 cart
 
 // components
 import Navbar from './Navbar'
